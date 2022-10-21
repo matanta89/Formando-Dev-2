@@ -1,0 +1,15 @@
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\bin\Debug\net6.0\FormandoDev.exe
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\bin\Debug\net6.0\FormandoDev.deps.json
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\bin\Debug\net6.0\FormandoDev.runtimeconfig.json
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\bin\Debug\net6.0\FormandoDev.dll
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\bin\Debug\net6.0\FormandoDev.pdb
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.csproj.AssemblyReference.cache
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.AssemblyInfoInputs.cache
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.AssemblyInfo.cs
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.csproj.CoreCompileInputs.cache
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.dll
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\refint\FormandoDev.dll
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.pdb
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\FormandoDev.genruntimeconfig.cache
+C:\Users\luiz.matanta\Desktop\Desafio a ser entregue formando Dev 2\FormandoDev\obj\Debug\net6.0\ref\FormandoDev.dll
